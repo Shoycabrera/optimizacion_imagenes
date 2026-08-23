@@ -1,0 +1,13 @@
+{
+  "name": "rml-image-optimizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optimizador portable de imágenes para Multiservicios RML.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.125.0"
+  }
+}
